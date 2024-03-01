@@ -1,0 +1,2 @@
+# surrealdb_bot
+surrealdbを使ったdiscordbot
